@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "build": "tsc --build",
-    "start": "tsc classesprac.ts | node classesprac.js",
+    "start": "tsc ./LowLevelSysDesign/FactoryDesignPattern/index.ts | node /LowLevelSysDesign/FactoryDesignPattern/index.js",
     "start.dev": "nodemon ./classesprac.ts"
   },
   "keywords": [],
